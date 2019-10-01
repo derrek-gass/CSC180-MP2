@@ -1,4 +1,2 @@
-jupyter contrib nbextension install --user
-jupyter nbextension enable --py widgetsnbextension
 jupyter labextension install dask-labextension
 jupyter serverextension install dask_labextension

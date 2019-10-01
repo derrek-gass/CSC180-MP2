@@ -8,8 +8,6 @@ dependencies:
   - psutil
   - toolz
   - matplotlib
-  - ipywidgets
-  - jupyter_contrib_nbextensions
   - dill
   - partd
   - bokeh
