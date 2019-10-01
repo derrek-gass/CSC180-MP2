@@ -1,1 +1,3 @@
+#!/bin/bash
+
 jupyter labextension install dask-labextension
