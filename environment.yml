@@ -8,6 +8,8 @@ dependencies:
   - psutil
   - toolz
   - matplotlib
+  - ipython
+  - vdom
   - dill
   - partd
   - bokeh
