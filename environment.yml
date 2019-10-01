@@ -3,14 +3,18 @@ channels:
   - conda-forge
 dependencies:
   - numpy
+  - csv
+  - os
+  - shutil
   - psutil
   - toolz
   - matplotlib
   - dill
-  - pandas
   - partd
   - bokeh
   - dask
+  - scikit-learn
   - tensorflow
-  - scipi
-  - sklearn
+  - pip:
+    - pandas
+
