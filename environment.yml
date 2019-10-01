@@ -12,6 +12,6 @@ dependencies:
   - dask
   - scikit-learn
   - tensorflow
-  - conda-env-pip 19.2.3:
+  - pip:
     - pandas
 
