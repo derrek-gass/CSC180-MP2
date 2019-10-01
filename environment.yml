@@ -12,5 +12,5 @@ dependencies:
   - bokeh
   - dask
   - tensorflow
+  - scipi
   - sklearn
-  
